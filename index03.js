@@ -19,4 +19,4 @@ const getSumOfNestedArray = (array) => {
   return innerSum(array);
 };
 
-console.log(getSumOfNestedArray(array1));
+console.log(getSumOfNestedArray(array1)); // => 72
